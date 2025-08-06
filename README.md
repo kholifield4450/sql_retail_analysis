@@ -2,7 +2,9 @@
 ## Project Overview
 
 **Project Title:** Retail Sales Analysis
+
 **Level:** Beginner
+
 **Platform used**: PostgreSQL
 
 ## Objectives:
